@@ -3,4 +3,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- agent-wrapped card goes here once published -->
+<img src="./agent-wrapped.svg" alt="Claude Code stats" width="100%" />
